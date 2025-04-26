@@ -4,5 +4,18 @@
 
 LEXICON Adjectives
 adjective    Comparisons   ;
+etyru+A:etyru # "dirty/sujo" ; 
+nhayãgãʼy+A:nhayãgãʼy # "/enjoado" ;
+puyhy+A:puyhy # "/feio" ;
+pyrytaã+A:pyrytaã # "/magro" ;
+tawury+A:tawury # "/doido" ;
+tchãy+A:tchãy # "beautiful/bonito" ;
+unhetchawã+A:unhetchawã # "/mudo" ;
+yahãʼy+A:yahãʼy # "/surdo" ;
+yemú% eutueã+A:yemú% eutueã # "intelligent/inteligente" ;
+ykyrauwhu+A:ykyrauwhu # "/gordo" ;
+ymaruã+A:ymaruã # "/imundo" ;
+yuwpy+A:yuwpy # "clean/limpo" ;
+
 
 ! vim: set ft=xfst-lexc:

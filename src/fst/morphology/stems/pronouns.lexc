@@ -3,6 +3,10 @@
 !! Pronouns in the Anambé language are words that may replace nouns or refer to participants in the conversation.
 
 LEXICON Pronouns
-pronoun    Cases   ;
+pronoun    Cases ;
+yha+Pron+Pers+Sg1:yha # "eu" ;
+awãpaná+Pron+Pers+Sg2:awãpaná # "tu" ;
+kuanũ+Pron+Pers+Pl3:kuanũ # "eles" ;
+ná+Pron+Pers+Sg2:ná # "você" ;!CHECKME
 
 ! vim: set ft=xfst-lexc:
