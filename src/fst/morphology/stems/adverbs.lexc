@@ -1,0 +1,15 @@
+!! Adverbs
+!  ----------
+!! Adverbs in the Anambé language answer questions of manner, degree, spatio-temporal location etc.
+
+LEXICON Adverbs
+aywa+Adv:aywa # "/amanhã" ;
+karumẽ+Adv:karumẽ # "/tarde" ;
+kóraha+Adv:kóraha # "today/hoje" ;
+koykawaʼá+Adv:koykawaʼá # "before yesterday/anteontem" ;
+nynaheraywa+Adv:nynaheraywa # "after tomorrow/depois de amanhã" ;
+pytũby+Adv:pytũby # "/escuro" ;
+ypyahó+Adv:ypyahó # "during the day/dia" ;
+
+
+! vim: set ft=xfst-lexc:
