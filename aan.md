@@ -213,6 +213,17 @@ Adjectives in the Anambé language describe the entities nouns refer to.
 
 ---
 
+# src-fst-morphology-stems-adverbs.lexc.md 
+
+Adverbs
+Adverbs in the Anambé language answer questions of manner, degree, spatio-temporal location etc.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adverbs.lexc](https://github.com/giellalt/lang-aan/blob/main/src/fst/morphology/stems/adverbs.lexc)</small>
+
+---
+
 # src-fst-morphology-stems-nouns.lexc.md 
 
 Nouns

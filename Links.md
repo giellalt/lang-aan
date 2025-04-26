@@ -13,6 +13,7 @@
             * [root.lexc](src-fst-morphology-root.lexc.html) ([src](https://github.com/giellalt/lang-aan/blob/main/src/fst/morphology/root.lexc))
             * `stems/`
                 * [adjectives.lexc](src-fst-morphology-stems-adjectives.lexc.html) ([src](https://github.com/giellalt/lang-aan/blob/main/src/fst/morphology/stems/adjectives.lexc))
+                * [adverbs.lexc](src-fst-morphology-stems-adverbs.lexc.html) ([src](https://github.com/giellalt/lang-aan/blob/main/src/fst/morphology/stems/adverbs.lexc))
                 * [nouns.lexc](src-fst-morphology-stems-nouns.lexc.html) ([src](https://github.com/giellalt/lang-aan/blob/main/src/fst/morphology/stems/nouns.lexc))
                 * [numerals.lexc](src-fst-morphology-stems-numerals.lexc.html) ([src](https://github.com/giellalt/lang-aan/blob/main/src/fst/morphology/stems/numerals.lexc))
                 * [prefixes.lexc](src-fst-morphology-stems-prefixes.lexc.html) ([src](https://github.com/giellalt/lang-aan/blob/main/src/fst/morphology/stems/prefixes.lexc))
