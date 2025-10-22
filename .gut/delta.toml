@@ -1,11 +1,11 @@
 template = ""
-rev_id = 246
-template_sha = "b7ba420a949cf8ed3ed70f3b25c8a69c42d2e07f"
+rev_id = 247
+template_sha = "c61ba7e0fbfa7e63d11bcd3461406bb80e54e26a"
 
 [replacements]
+__GLOTTOLOG_ID__ = "anam1249"
 __LICENSE__ = "GPLv3"
 __REPO__ = "lang-aan"
 __UND2C__ = "aan"
 __UNDEFINED__ = "Anambé"
 __UND__ = "aan"
-__GLOTTOLOG_ID__ = "anam1249"
