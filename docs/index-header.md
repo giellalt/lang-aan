@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-aan%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-aan)](https://github.com/giellalt/lang-aan/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-aan)](https://github.com/giellalt/lang-aan/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-aan/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-aan/main/latest)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-aan?label=CI)](https://builds.giellalt.org/pipelines/lang-aan/builds/latest)
 
 This page documents the work on the **Anambé language model**. 
 
